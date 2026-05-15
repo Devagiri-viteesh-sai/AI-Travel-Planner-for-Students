@@ -1,0 +1,60 @@
+City,State,Budget_Hotel,Food_Per_Day,Transport,Places
+Mumbai,Maharashtra,1500,700,500,Gateway of India|Marine Drive|Juhu Beach|Elephanta Caves|Siddhivinayak Temple|Bandra Worli Sea Link
+Delhi,Delhi,1400,650,400,India Gate|Red Fort|Qutub Minar|Lotus Temple|Akshardham Temple|Humayun Tomb
+Bangalore,Karnataka,1200,500,300,Cubbon Park|Lalbagh|MG Road|Bannerghatta National Park|ISKCON Temple|Wonderla
+Hyderabad,Telangana,1100,450,250,Charminar|Golconda Fort|Hussain Sagar|Ramoji Film City|Salar Jung Museum|Chowmahalla Palace
+Chennai,Tamil Nadu,1000,450,250,Marina Beach|Mahabalipuram|VGP Marine Kingdom|Kapaleeshwarar Temple|Guindy National Park|Santhome Basilica
+Goa,Goa,1000,500,300,Baga Beach|Fort Aguada|Calangute Beach|Dudhsagar Falls|Anjuna Beach|Basilica of Bom Jesus
+Pune,Maharashtra,950,450,250,Shaniwar Wada|Sinhagad Fort|Aga Khan Palace|Khadakwasla Dam|Rajgad Fort|Lal Mahal
+Jaipur,Rajasthan,1200,500,300,Hawa Mahal|Amber Fort|City Palace|Jal Mahal|Nahargarh Fort|Birla Mandir
+Kolkata,West Bengal,900,400,200,Howrah Bridge|Victoria Memorial|Dakshineswar Temple|Science City|Eco Park|Indian Museum
+Visakhapatnam,Andhra Pradesh,850,400,200,RK Beach|Kailasagiri|Araku Valley|Submarine Museum|Yarada Beach|Borra Caves
+Ahmedabad,Gujarat,950,400,220,Sabarmati Ashram|Kankaria Lake|Adalaj Stepwell|Science City|Riverfront|Jama Masjid
+Surat,Gujarat,850,350,180,Dumas Beach|Science Centre|Dutch Garden|Gopi Talav|Sarthana Nature Park|ISKCON Temple
+Vadodara,Gujarat,850,350,180,Laxmi Vilas Palace|Sayaji Garden|EME Temple|Kirti Mandir|Baroda Museum|Sur Sagar Lake
+Lucknow,Uttar Pradesh,850,350,200,Bara Imambara|Rumi Darwaza|Hazratganj|Ambedkar Park|Chota Imambara|Marine Drive
+Kanpur,Uttar Pradesh,800,300,180,Allen Forest Zoo|JK Temple|Blue World Theme Park|Moti Jheel|Bithoor|Kanpur Memorial Church
+Varanasi,Uttar Pradesh,900,350,200,Kashi Vishwanath Temple|Dashashwamedh Ghat|Sarnath|Assi Ghat|Manikarnika Ghat|Ramnagar Fort
+Agra,Uttar Pradesh,1000,400,220,Taj Mahal|Agra Fort|Mehtab Bagh|Fatehpur Sikri|Itmad-ud-Daulah|Jama Masjid
+Prayagraj,Uttar Pradesh,800,300,180,Triveni Sangam|Anand Bhavan|Khusro Bagh|Allahabad Fort|Hanuman Temple|Alopi Devi Temple
+Bhopal,Madhya Pradesh,850,350,200,Upper Lake|Van Vihar|Sanchi Stupa|Bhojpur Temple|State Museum|Lower Lake
+Indore,Madhya Pradesh,900,400,220,Rajwada Palace|Sarafa Bazaar|Lal Bagh Palace|Patalpani Falls|Khajrana Temple|Chappan Dukan
+Gwalior,Madhya Pradesh,850,350,200,Gwalior Fort|Jai Vilas Palace|Sun Temple|Teli Ka Mandir|Sas Bahu Temple|Gujari Mahal
+Patna,Bihar,750,300,150,Golghar|Bihar Museum|Takht Sri Patna Sahib|Eco Park|Mahavir Mandir|Gandhi Maidan
+Ranchi,Jharkhand,800,350,180,Hundru Falls|Rock Garden|Tagore Hill|Dassam Falls|Patratu Valley|Jonha Falls
+Bhubaneswar,Odisha,850,350,180,Lingaraj Temple|Nandankanan Zoo|Udayagiri Caves|Dhauli Hills|Mukteswara Temple|Khandagiri Caves
+Cuttack,Odisha,800,320,170,Barabati Fort|Netaji Birth Place Museum|Mahanadi Barrage|Cuttack Chandi Temple|Deer Park|Stone Revetment
+Kochi,Kerala,950,450,220,Fort Kochi|Marine Drive|Mattancherry Palace|Chinese Fishing Nets|Cherai Beach|Jew Town
+Thiruvananthapuram,Kerala,900,420,200,Padmanabhaswamy Temple|Kovalam Beach|Napier Museum|Poovar Island|Veli Lake|Shangumugham Beach
+Kozhikode,Kerala,850,400,190,Kozhikode Beach|Mananchira Square|Beypore Beach|SM Street|Kappad Beach|Tali Temple
+Coimbatore,Tamil Nadu,850,400,180,Marudamalai Temple|VOC Park|Siruvani Waterfalls|Adiyogi Shiva|Black Thunder|Brookefields Mall
+Madurai,Tamil Nadu,900,400,200,Meenakshi Temple|Thirumalai Nayakkar Palace|Gandhi Museum|Alagar Kovil|Vaigai Dam|Koodal Azhagar Temple
+Tiruchirappalli,Tamil Nadu,850,350,180,Rockfort Temple|Srirangam Temple|Kallanai Dam|Butterfly Park|Samayapuram Temple|Mukkombu
+Mysore,Karnataka,950,420,220,Mysore Palace|Chamundi Hills|Brindavan Gardens|Mysore Zoo|St. Philomena Church|Karanji Lake
+Mangalore,Karnataka,850,380,180,Panambur Beach|Kadri Temple|Tannirbhavi Beach|Sultan Battery|Pilikula Park|Someshwara Beach
+Hubli,Karnataka,800,350,170,Unkal Lake|Nrupatunga Betta|Chandramouleshwara Temple|Glass House Garden|Banashankari Temple|Indira Gandhi Glass House
+Vijayawada,Andhra Pradesh,850,380,180,Kanaka Durga Temple|Bhavani Island|Undavalli Caves|Prakasam Barrage|Gandhi Hill|Amaravati
+Tirupati,Andhra Pradesh,950,400,220,Tirumala Temple|Talakona Waterfalls|Chandragiri Fort|ISKCON Temple|Sri Kapileswara Temple|Deer Park
+Warangal,Telangana,850,350,180,Warangal Fort|Ramappa Temple|Bhadrakali Temple|Pakhal Lake|Thousand Pillar Temple|Kakatiya Musical Garden
+Nizamabad,Telangana,800,320,160,Nizamabad Fort|Ali Sagar Reservoir|Dichpally Temple|Pocharam Wildlife Sanctuary|Mallaram Forest|Sarangapur Temple
+Chandigarh,Chandigarh,1100,500,300,Rock Garden|Sukhna Lake|Rose Garden|Elante Mall|Japanese Garden|Capitol Complex
+Amritsar,Punjab,950,420,220,Golden Temple|Jallianwala Bagh|Wagah Border|Durgiana Temple|Partition Museum|Gobindgarh Fort
+Ludhiana,Punjab,850,380,180,Punjab Agricultural University Museum|Nehru Rose Garden|Phillaur Fort|Rakh Bagh Park|Maharaja Ranjit Singh Museum|Hardy's World
+Shimla,Himachal Pradesh,1200,500,300,Mall Road|Jakhoo Temple|Kufri|Christ Church|Green Valley|The Ridge
+Manali,Himachal Pradesh,1300,550,320,Solang Valley|Rohtang Pass|Hadimba Temple|Manu Temple|Jogini Falls|Old Manali
+Dehradun,Uttarakhand,1000,450,250,Robber’s Cave|Sahastradhara|Forest Research Institute|Mindrolling Monastery|Tapkeshwar Temple|Malsi Deer Park
+Haridwar,Uttarakhand,900,400,220,Har Ki Pauri|Mansa Devi Temple|Chandi Devi Temple|Bharat Mata Temple|Shantikunj|Daksha Mahadev Temple
+Srinagar,Jammu and Kashmir,1400,600,350,Dal Lake|Gulmarg|Mughal Gardens|Shankaracharya Temple|Nishat Bagh|Sonamarg
+Jammu,Jammu and Kashmir,1000,450,250,Vaishno Devi|Raghunath Temple|Bahu Fort|Mubarak Mandi Palace|Bagh-e-Bahu|Peer Kho Cave
+Gangtok,Sikkim,1200,500,300,MG Marg|Tsomgo Lake|Nathula Pass|Rumtek Monastery|Ganesh Tok|Banjhakri Falls
+Shillong,Meghalaya,1100,480,280,Umiam Lake|Elephant Falls|Shillong Peak|Ward's Lake|Don Bosco Museum|Laitlum Canyons
+Guwahati,Assam,950,420,220,Kamakhya Temple|Brahmaputra Riverfront|Umananda Island|Assam State Zoo|Pobitora Wildlife Sanctuary|Navagraha Temple
+Aizawl,Mizoram,900,400,200,Reiek Peak|Durtlang Hills|KV Paradise|Mizoram State Museum|Falkawn Village|Solomon Temple
+Imphal,Manipur,900,400,200,Loktak Lake|Kangla Fort|INA Memorial|Shree Govindajee Temple|Keibul Lamjao Park|War Cemetery
+Itanagar,Arunachal Pradesh,950,420,220,Itanagar Fort|Ganga Lake|Buddhist Temple|Jawaharlal Nehru Museum|Indira Gandhi Park|Polo Park
+Nagpur,Maharashtra,850,350,180,Deekshabhoomi|Ambazari Lake|Futala Lake|Dragon Palace Temple|Ramtek Temple|Maharajbagh Zoo
+Nashik,Maharashtra,900,380,200,Trimbakeshwar Temple|Sula Vineyards|Pandavleni Caves|Coin Museum|Anjaneri Hills|Muktidham Temple
+Aurangabad,Maharashtra,950,400,220,Ajanta Caves|Ellora Caves|Bibi Ka Maqbara|Daulatabad Fort|Panchakki|Grishneshwar Temple
+Udaipur,Rajasthan,1200,500,300,City Palace|Lake Pichola|Sajjangarh Palace|Fateh Sagar Lake|Jag Mandir|Saheliyon Ki Bari
+Jodhpur,Rajasthan,1100,480,280,Mehrangarh Fort|Umaid Bhawan Palace|Clock Tower|Jaswant Thada|Mandore Gardens|Toorji Ka Jhalra
+Bikaner,Rajasthan,1000,450,250,Junalgarh Fort|Karni Mata Temple|Lalgarh Palace|Camel Breeding Farm|Gajner Palace|National Research Centre on Camel

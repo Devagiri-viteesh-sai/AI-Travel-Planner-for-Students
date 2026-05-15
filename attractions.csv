@@ -1,0 +1,96 @@
+City,Attraction,Type,Entry_Fee,Best_Time,Description
+Mumbai,Gateway of India,Historical,0,Evening,Famous sea-facing monument
+Mumbai,Marine Drive,Beach,0,Night,Popular coastal road and sunset point
+Mumbai,Juhu Beach,Beach,0,Evening,Famous public beach with street food
+Mumbai,Elephanta Caves,Historical,40,Morning,UNESCO cave temples
+
+Delhi,India Gate,Historical,0,Evening,National war memorial
+Delhi,Red Fort,Historical,50,Morning,Famous Mughal fort
+Delhi,Qutub Minar,Historical,35,Morning,UNESCO heritage monument
+Delhi,Lotus Temple,Religious,0,Evening,Famous lotus-shaped temple
+
+Bangalore,Cubbon Park,Park,0,Morning,Large green park in city center
+Bangalore,Lalbagh Botanical Garden,Garden,30,Morning,Famous botanical garden
+Bangalore,MG Road,Shopping,0,Evening,Popular shopping and cafe area
+Bangalore,Bannerghatta National Park,Zoo,80,Morning,Famous wildlife park
+
+Hyderabad,Charminar,Historical,25,Evening,Iconic monument of Hyderabad
+Hyderabad,Golconda Fort,Historical,40,Evening,Historic fort with light show
+Hyderabad,Hussain Sagar,Lake,0,Evening,Famous lake with Buddha statue
+Hyderabad,Ramoji Film City,Entertainment,1500,Full Day,Large film studio complex
+
+Chennai,Marina Beach,Beach,0,Evening,One of the longest beaches in India
+Chennai,Mahabalipuram,Historical,40,Morning,UNESCO shore temple town
+Chennai,Kapaleeshwarar Temple,Religious,0,Morning,Famous Dravidian temple
+Chennai,VGP Marine Kingdom,Aquarium,750,Afternoon,Popular aquarium attraction
+
+Goa,Baga Beach,Beach,0,Evening,Famous nightlife beach
+Goa,Calangute Beach,Beach,0,Evening,Popular tourist beach
+Goa,Fort Aguada,Historical,0,Morning,Portuguese fort with sea view
+Goa,Dudhsagar Falls,Waterfall,400,Monsoon,Famous waterfall in Goa
+
+Pune,Shaniwar Wada,Historical,25,Evening,Famous Maratha fort
+Pune,Sinhagad Fort,Fort,20,Morning,Popular trekking destination
+Pune,Aga Khan Palace,Historical,30,Morning,Historic freedom movement site
+Pune,Khadakwasla Dam,Lake,0,Evening,Scenic picnic spot
+
+Jaipur,Hawa Mahal,Historical,50,Morning,Famous palace with windows
+Jaipur,Amber Fort,Fort,100,Morning,Historic Rajput fort
+Jaipur,City Palace,Historical,200,Afternoon,Royal palace complex
+Jaipur,Jal Mahal,Lake,0,Evening,Beautiful palace in lake
+
+Kolkata,Howrah Bridge,Historical,0,Evening,Iconic bridge over Hooghly river
+Kolkata,Victoria Memorial,Museum,30,Morning,Famous marble monument
+Kolkata,Dakshineswar Temple,Religious,0,Morning,Popular Kali temple
+Kolkata,Science City,Science Museum,60,Afternoon,Large science center
+
+Visakhapatnam,RK Beach,Beach,0,Evening,Famous beach in Vizag
+Visakhapatnam,Kailasagiri,Hill Station,50,Evening,Scenic hilltop park
+Visakhapatnam,Araku Valley,Hill Station,100,Morning,Beautiful valley destination
+Visakhapatnam,Submarine Museum,Museum,40,Afternoon,Unique submarine museum
+
+Ahmedabad,Sabarmati Ashram,Historical,0,Morning,Gandhi memorial site
+Ahmedabad,Kankaria Lake,Lake,25,Evening,Popular recreational lake
+Ahmedabad,Adalaj Stepwell,Historical,25,Morning,Historic stepwell architecture
+Ahmedabad,Science City,Science Museum,100,Afternoon,Educational science attraction
+
+Lucknow,Bara Imambara,Historical,50,Morning,Famous Nawabi monument
+Lucknow,Rumi Darwaza,Historical,0,Evening,Historic gateway structure
+Lucknow,Hazratganj,Shopping,0,Evening,Famous shopping area
+Lucknow,Marine Drive,Lake,0,Night,Popular evening destination
+
+Varanasi,Kashi Vishwanath Temple,Religious,0,Morning,Famous Shiva temple
+Varanasi,Dashashwamedh Ghat,Religious,0,Evening,Ganga Aarti attraction
+Varanasi,Sarnath,Historical,20,Morning,Buddhist pilgrimage site
+
+Mysore,Mysore Palace,Historical,100,Evening,Famous illuminated palace
+Mysore,Chamundi Hills,Hill Station,0,Morning,Temple and city viewpoint
+Mysore,Brindavan Gardens,Garden,50,Evening,Musical fountain attraction
+
+Manali,Solang Valley,Adventure,0,Morning,Famous adventure sports location
+Manali,Rohtang Pass,Hill Station,500,Morning,Snow-covered mountain pass
+Manali,Hadimba Temple,Religious,0,Morning,Famous wooden temple
+
+Shimla,Mall Road,Shopping,0,Evening,Famous walking street
+Shimla,Jakhoo Temple,Religious,0,Morning,Hilltop Hanuman temple
+Shimla,Kufri,Hill Station,50,Morning,Popular snowfall tourist spot
+
+Amritsar,Golden Temple,Religious,0,Morning,Most famous Sikh temple
+Amritsar,Wagah Border,Historical,0,Evening,India-Pakistan border ceremony
+Amritsar,Jallianwala Bagh,Historical,0,Morning,Historic massacre memorial
+
+Kochi,Fort Kochi,Historical,0,Evening,Colonial-era tourist area
+Kochi,Marine Drive,Lake,0,Night,Famous waterfront walkway
+Kochi,Mattancherry Palace,Museum,20,Morning,Historic Dutch palace
+
+Udaipur,City Palace,Historical,300,Morning,Famous royal palace
+Udaipur,Lake Pichola,Lake,0,Evening,Beautiful lake destination
+Udaipur,Sajjangarh Palace,Historical,100,Evening,Sunset viewpoint palace
+
+Jodhpur,Mehrangarh Fort,Fort,200,Morning,Famous blue city fort
+Jodhpur,Umaid Bhawan Palace,Historical,250,Afternoon,Royal heritage palace
+Jodhpur,Clock Tower,Shopping,0,Evening,Popular local market
+
+Nagpur,Deekshabhoomi,Historical,0,Morning,Buddhist monument
+Nagpur,Ambazari Lake,Lake,0,Evening,Relaxing picnic spot
+Nagpur,Futala Lake,Lake,0,Night,Famous night attraction

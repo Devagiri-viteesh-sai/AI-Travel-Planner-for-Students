@@ -1,0 +1,119 @@
+City,Hotel_Name,Price_Per_Night,Rating,Type
+Mumbai,Hotel Sea View,2500,4.2,Budget
+Mumbai,Urban Stay Inn,1800,3.9,Budget
+Delhi,Capital Residency,2200,4.0,Budget
+Delhi,Metro Palace Hotel,1900,3.8,Budget
+Bangalore,Green Park Hotel,2000,4.1,Budget
+Bangalore,Tech City Stay,1700,3.9,Budget
+Hyderabad,Royal Stay,1800,3.9,Budget
+Hyderabad,Charminar Comforts,1600,3.8,Budget
+Chennai,Beach Palace,1900,4.0,Budget
+Chennai,Marina Residency,1700,3.9,Budget
+Goa,Ocean Paradise,3000,4.5,Budget
+Goa,Beach Side Hostel,1500,3.7,Budget
+Pune,City Comfort Inn,1700,3.8,Budget
+Pune,Student Residency,1400,3.6,Budget
+Jaipur,Raj Mahal Stay,2400,4.3,Budget
+Jaipur,Pink City Lodge,1700,3.8,Budget
+Kolkata,Heritage Residency,1800,4.0,Budget
+Kolkata,Howrah Comforts,1500,3.7,Budget
+Visakhapatnam,Blue Bay Hotel,1600,3.9,Budget
+Visakhapatnam,Coastal Stay,1400,3.7,Budget
+Ahmedabad,Urban Residency,1700,4.1,Budget
+Ahmedabad,Sabarmati Inn,1500,3.8,Budget
+Surat,Diamond Residency,1600,3.9,Budget
+Surat,Textile Comfort Inn,1400,3.7,Budget
+Vadodara,Royal Garden Hotel,1700,4.0,Budget
+Vadodara,EME Residency,1400,3.7,Budget
+Lucknow,Nawab Palace,1800,4.0,Budget
+Lucknow,Hazratganj Inn,1500,3.8,Budget
+Kanpur,Ganges Residency,1500,3.8,Budget
+Kanpur,City Plaza Stay,1300,3.6,Budget
+Varanasi,Ganga Residency,1500,3.8,Budget
+Varanasi,Kashi Guest House,1200,3.5,Budget
+Agra,Taj Comfort Hotel,1900,4.0,Budget
+Agra,Heritage Residency,1600,3.8,Budget
+Prayagraj,Sangam Inn,1400,3.7,Budget
+Prayagraj,Pilgrim Stay,1200,3.5,Budget
+Bhopal,Lake View Hotel,1700,3.9,Budget
+Bhopal,Van Vihar Inn,1400,3.7,Budget
+Indore,Rajwada Residency,1800,4.0,Budget
+Indore,Sarafa Comforts,1500,3.8,Budget
+Gwalior,Fort Heritage Hotel,1700,3.9,Budget
+Gwalior,Sun Temple Inn,1400,3.7,Budget
+Patna,Bihar Residency,1400,3.7,Budget
+Patna,Golghar Stay,1200,3.5,Budget
+Ranchi,Hill View Residency,1500,3.8,Budget
+Ranchi,Rock Garden Inn,1300,3.6,Budget
+Bhubaneswar,Temple City Hotel,1600,3.9,Budget
+Bhubaneswar,Lingaraj Residency,1400,3.7,Budget
+Cuttack,Fort Residency,1400,3.7,Budget
+Cuttack,Riverside Inn,1200,3.5,Budget
+Kochi,Backwater Resort,2400,4.3,Budget
+Kochi,Marine Residency,1800,3.9,Budget
+Thiruvananthapuram,Kovalam Stay,1800,3.9,Budget
+Thiruvananthapuram,Temple Residency,1500,3.7,Budget
+Kozhikode,Beach Residency,1600,3.8,Budget
+Kozhikode,Square Comforts,1300,3.6,Budget
+Coimbatore,Western Ghats Inn,1600,3.8,Budget
+Coimbatore,VOC Residency,1300,3.6,Budget
+Madurai,Temple City Residency,1700,3.9,Budget
+Madurai,Meenakshi Stay,1400,3.7,Budget
+Tiruchirappalli,Rockfort Inn,1500,3.8,Budget
+Tiruchirappalli,Srirangam Residency,1300,3.6,Budget
+Mysore,Royal Orchid Stay,2000,4.2,Budget
+Mysore,Palace Residency,1600,3.8,Budget
+Mangalore,Beach Comfort Inn,1500,3.8,Budget
+Mangalore,Temple Residency,1300,3.6,Budget
+Hubli,Unkal Lake Hotel,1400,3.7,Budget
+Hubli,Nrupatunga Stay,1200,3.5,Budget
+Vijayawada,Krishna Residency,1500,3.8,Budget
+Vijayawada,Durga Comforts,1300,3.6,Budget
+Tirupati,Tirumala Residency,1800,4.0,Budget
+Tirupati,Pilgrim Palace,1500,3.8,Budget
+Warangal,Kakatiya Residency,1400,3.7,Budget
+Warangal,Ramappa Stay,1200,3.5,Budget
+Nizamabad,Ali Sagar Inn,1300,3.6,Budget
+Nizamabad,Fort Residency,1200,3.5,Budget
+Chandigarh,City Beautiful Hotel,2200,4.2,Budget
+Chandigarh,Sukhna Residency,1800,3.9,Budget
+Amritsar,Golden Stay,1900,4.1,Budget
+Amritsar,Wagah Residency,1600,3.8,Budget
+Ludhiana,Rose Garden Inn,1500,3.7,Budget
+Ludhiana,Punjab Residency,1300,3.5,Budget
+Shimla,Snow Valley Hotel,2600,4.3,Budget
+Shimla,Hill View Stay,2000,3.9,Budget
+Manali,Hill View Resort,2800,4.4,Budget
+Manali,Solang Residency,2200,4.0,Budget
+Dehradun,Forest Residency,1700,3.9,Budget
+Dehradun,Cave View Inn,1400,3.7,Budget
+Haridwar,Ganga Residency,1500,3.8,Budget
+Haridwar,Pilgrim Stay,1200,3.5,Budget
+Srinagar,Dal Lake Resort,3000,4.5,Budget
+Srinagar,Kashmir Residency,2400,4.1,Budget
+Jammu,Temple Residency,1800,3.9,Budget
+Jammu,Fort Comfort Inn,1500,3.7,Budget
+Gangtok,Himalayan Residency,2200,4.2,Budget
+Gangtok,MG Marg Inn,1800,3.9,Budget
+Shillong,Cloud View Hotel,2000,4.0,Budget
+Shillong,Umiam Residency,1700,3.8,Budget
+Guwahati,Brahmaputra Inn,1800,3.9,Budget
+Guwahati,Temple View Residency,1500,3.7,Budget
+Aizawl,Hilltop Residency,1600,3.8,Budget
+Aizawl,Valley Stay,1300,3.6,Budget
+Imphal,Loktak Residency,1600,3.8,Budget
+Imphal,Fort Comfort Inn,1300,3.6,Budget
+Itanagar,Himalaya Residency,1700,3.9,Budget
+Itanagar,Ganga Lake Inn,1400,3.7,Budget
+Nagpur,Orange City Residency,1500,3.8,Budget
+Nagpur,Lake View Inn,1300,3.6,Budget
+Nashik,Vineyard Residency,1700,3.9,Budget
+Nashik,Temple Stay,1400,3.7,Budget
+Aurangabad,Heritage Cave Resort,1900,4.0,Budget
+Aurangabad,Ellora Residency,1600,3.8,Budget
+Udaipur,Lake Palace Stay,3000,4.5,Budget
+Udaipur,Royal Residency,2200,4.0,Budget
+Jodhpur,Blue City Inn,2200,4.2,Budget
+Jodhpur,Fort Residency,1800,3.9,Budget
+Bikaner,Desert Residency,1800,3.9,Budget
+Bikaner,Karni Comfort Inn,1500,3.7,Budget
